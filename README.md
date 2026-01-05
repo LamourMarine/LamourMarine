@@ -1,16 +1,20 @@
-## Hi there 👋
+# Bonjour ! 👋
 
-<!--
-**LamourMarine/LamourMarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Full-stack developer passionate about building efficient, user-friendly web applications. Currently strengthening my Java/Spring Boot skills while seeking an alternance for Concepteur Développeur d'Applications or a junior developer position.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Frontend:** React, TypeScript, JavaScript, HTML5, CSS3  
+**Backend:** Spring Boot, Symfony (PHP), Node.js  
+**Databases:** PostgreSQL, MySQL  
+**Tools:** Git, Docker, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[Cantine Verte]** - Full-stack platform connecting local producers with school cafeterias (React/TS + Symfony)
+- **[School Management System]** - Java/Spring Boot application with complete CRUD operations
+- **[Portfolio]** - Responsive professional website showcasing my work
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/marine-lma/)
+- 🌐 [Portfolio](https://ml-dev.netlify.app)
+- 📍 Based in Hauts-de-France, France
